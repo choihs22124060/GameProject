@@ -4,7 +4,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 게임 제목 | **Maze Escape)** |
+| 게임 제목 | **Maze Escape** |
 | 장르 | FPS / Action / Survival |
 | 개발 엔진 | Unreal Engine 5.4.4 |
 | 플랫폼 | PC |
